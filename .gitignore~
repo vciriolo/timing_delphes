@@ -1,0 +1,9 @@
+##images
+*.pdf
+*.png
+##output
+*.root
+*.txt
+##folders
+/plot
+/qcd*

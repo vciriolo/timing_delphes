@@ -1,0 +1,2 @@
+touch examples/*.cpp
+make

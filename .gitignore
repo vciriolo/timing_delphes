@@ -1,0 +1,15 @@
+##images
+*.pdf
+*.png
+##output
+*.root
+*.txt
+##folders
+plot/
+qcd*/
+wspread/
+backup/
+27*/
+0*/
+1110plot/
+final_plots/	
