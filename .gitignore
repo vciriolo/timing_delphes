@@ -12,4 +12,7 @@ backup/
 27*/
 0*/
 1110plot/
-final_plots/	
+final_plots/
+##executable
+*.exe
+*~
