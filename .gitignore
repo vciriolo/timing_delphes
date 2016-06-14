@@ -16,3 +16,7 @@ final_plots/
 ##executable
 *.exe
 *~
+DelphesTreeReader
+DelphesTreeReader1905
+DelphesTreeReader2505
+DelphesTreeReader_mygammjet
